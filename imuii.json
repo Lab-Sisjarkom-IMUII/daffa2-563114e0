@@ -1,0 +1,11 @@
+{
+  "name": "daffa2",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "daffa2",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_31085388f8fce46328fd3c18513545911992a847ed72d661417cb7d86b2a32f6",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/daffa2-563114e0.git"
+}
